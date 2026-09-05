@@ -8,4 +8,17 @@
 
 ### **We actively listen to your requests and concerns.**
 
+# **LOGO!!!**
+**Yay! We made a logo for the organization, and it seems easy to understand:**
+
+**white shape - pointer in memory and so on**
+
+**black square with white inside - processor**
+
+**yellow - blinking packet transmission light**
+
+**orange - chips on the board**
+
+**I personally like it** 
+
 > All the best for you and your exploration of our projects!
