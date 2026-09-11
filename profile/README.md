@@ -1,5 +1,5 @@
-# Core/713 Organization
-## Welcome to Core/713. We're glad you're interested in our organization, and we're happy to share some basic information about it:
+# FoxesOPLabs Organization
+## Welcome to FoxesOPLabs. We're glad you're interested in our organization, and we're happy to share some basic information about it:
 
 
 ### **Core/713 works on projects such as os-core713, csosh, and linof-links.**
